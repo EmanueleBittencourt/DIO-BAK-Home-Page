@@ -19,5 +19,6 @@ Crie o teste unitário da função
 
 ### Demonstração da tela criada
 
-![Descrição da imagem](imgs/tela_login.png)
-![Descrição da imagem](imgs/valida_login.png)
+![Tela inicial](imgs/tela_login.png)
+
+![Boas-vindas ao entrar](imgs/valida_login.png)
